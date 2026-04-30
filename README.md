@@ -4,11 +4,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jsmezaing21)
 
 ## About me
-
 Systems engineer passionate about building scalable web applications, exploring cloud infrastructure, and diving into data analysis and machine learning.
 
 - 🌐 Focused on **web development**, **cloud** & **data/ML/DL**
 - 🔭 Currently working on full-stack and data projects
+- ☁️ Studying **cloud computing** (AWS / GCP / Azure)
 - 📍 Colombia
 
 ## Tech stack
