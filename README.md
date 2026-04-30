@@ -8,7 +8,7 @@ Systems engineer passionate about building scalable web applications, exploring 
 
 - 🌐 Focused on **web development**, **cloud** & **data/ML/DL**
 - 🔭 Currently working on full-stack and data projects
-- ☁️ Studying **cloud computing** (AWS / GCP / Azure)
+- ☁️ Studying **cloud computing** (AWS)
 - 📍 Colombia
 
 ## Tech stack
