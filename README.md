@@ -27,5 +27,5 @@ Systems engineer passionate about building scalable web applications, exploring 
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jsmezaing21&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsmezaing21&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jsmezaing21&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsmezaing21&layout=compact&theme=dark&hide_border=true)
